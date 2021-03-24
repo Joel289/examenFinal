@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\bin\Debug\Examen_Solis_Angel.exe.config
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\bin\Debug\Examen_Solis_Angel.exe
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\bin\Debug\Examen_Solis_Angel.pdb
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\MainWindow.g.cs
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\App.g.cs
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel_MarkupCompile.cache
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel_MarkupCompile.lref
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\MainWindow.baml
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.g.resources
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.Properties.Resources.resources
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.exe
+C:\Users\angel\source\repos\Examen_Solis_Angel\Examen_Solis_Angel\obj\Debug\Examen_Solis_Angel.pdb
